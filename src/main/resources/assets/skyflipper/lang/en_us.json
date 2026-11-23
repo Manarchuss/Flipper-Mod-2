@@ -1,0 +1,6 @@
+{
+  "key.category.skyflipper.main": "Sky Flipper HUD",
+  "key.skyflipper.toggle": "Show / hide flip HUD",
+  "key.skyflipper.mode": "Cycle HUD mode (Both / Bazaar / Auction)",
+  "key.skyflipper.reload": "Reload skyflipper.json config"
+}
